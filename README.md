@@ -1,16 +1,48 @@
-## Hi there 👋
+# 👋 Hey, I'm Riyyan Imran!  
 
-<!--
-**RiyyanImran/RiyyanImran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me:  
+🚀 Software Engineer passionate about Machine Learning.  
+🛠️ Building scalable, user-friendly applications.  
+📚 Always learning new technologies and tools.  
+🧩 Love solving complex problems across the full stack.  
+Let's connect and collaborate! 😊  
 
-Here are some ideas to get you started:
+## 📖 Basic Info:  
+```json
+{
+  "name": "Riyan Imran",
+  "role": "Software Engineer",
+  "specialization": ["Software Engineering", "Machine Learning"],
+  "skills": {
+    "frontend": ["HTML", "CSS", "JavaScript", "React", "Next.js"],
+    "backend": ["Node.js", "Express.js"],
+    "databases": ["MongoDB", "MySQL"],
+    "other": ["Socket.io", "Git", "Vercel", "Linux"]
+  },
+  "hobbies": ["Coding", "Gaming", "Reading Books"],
+  "location": "Pakistan"
+}
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📜 Dev Quote of the Day:  
+*"Much of the essence of building a program is in fact the debugging of the specification."*  
+— Fred Brooks  
+
+## 🎯 Fun Facts:  
+🌍 I'm constantly experimenting with new frameworks and tech.  
+🤖 AI & ML enthusiast, working on integrating cutting-edge tools.  
+🎮 Gamer who codes for fun.  
+
+## 🌎 Connect with Me:  
+[LinkedIn](#) | [Instagram](#)  
+
+## ⚡ Tech Stack:  
+![Tech Stack](https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,mysql,git,linux,vercel)  
+
+## 📊 GitHub Stats:  
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MoizUddin&layout=compact&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MoizUddin&theme=radical)  
+![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=MoizUddin&show_icons=true&theme=radical)  
+
+## 🔥 Visitor Count:  
+![Visitor Count](https://komarev.com/ghpvc/?username=MoizUddin&label=Profile%20Views&color=blue&style=flat)  

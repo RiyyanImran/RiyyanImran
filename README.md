@@ -40,9 +40,9 @@ Let's connect and collaborate! 😊
 ![Tech Stack](https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,mysql,git,linux,vercel)  
 
 ## 📊 GitHub Stats:  
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MoizUddin&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MoizUddin&theme=radical)  
-![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=MoizUddin&show_icons=true&theme=radical)  
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RiyyanImran&layout=compact&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RiyyanImran&theme=radical)  
+![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=RiyyanImran&show_icons=true&theme=radical)  
 
 ## 🔥 Visitor Count:  
 ![Visitor Count](https://komarev.com/ghpvc/?username=RiyyanImran&label=Profile%20Views&color=blue&style=flat)  

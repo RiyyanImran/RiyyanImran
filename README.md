@@ -1,10 +1,10 @@
 # 👋 Hey, I'm Riyyan Imran!  
 
 ## 👨‍💻 About Me:  
-🚀 Software Engineer passionate about Machine Learning.  
+🚀 Machine learning Engineer passionate about Machine Learning.  
 🛠️ Building scalable, user-friendly applications.  
 📚 Always learning new technologies and tools.  
-🧩 Love solving complex problems across the full stack.  
+🧩 Love solving complex problems across different Data Science Field  
 Let's connect and collaborate! 😊  
 
 ## 📖 Basic Info:  

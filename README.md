@@ -45,4 +45,4 @@ Let's connect and collaborate! 😊
 ![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=MoizUddin&show_icons=true&theme=radical)  
 
 ## 🔥 Visitor Count:  
-![Visitor Count](https://komarev.com/ghpvc/?username=MoizUddin&label=Profile%20Views&color=blue&style=flat)  
+![Visitor Count](https://komarev.com/ghpvc/?username=RiyyanImran&label=Profile%20Views&color=blue&style=flat)  
